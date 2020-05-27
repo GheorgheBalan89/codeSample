@@ -24,5 +24,23 @@ namespace TreeDemo.Tests
             Assert.AreEqual(sum[0], 299);
             Assert.AreEqual(sum[1], 9271);
         }
+
+        [Test]
+        public void TestThree()
+        {
+            var input = new int[] { 256741038, 623958417, 467905213, 714532089, 938071625 };
+            var sum = new MiniMaxiSum().miniMaxSum(input);
+            Assert.AreEqual(sum[0], 2063136757);
+            Assert.AreEqual(sum[1], 2744467344);
+        }
+
+        [Test]
+        public void TestFour()
+        {
+            var input = new int[] { 5, 5, 5, 5, 5 };
+            var sum = new MiniMaxiSum().miniMaxSum(input);
+            Assert.AreEqual(sum[0], 20);
+            Assert.AreEqual(sum[1], 20);
+        }
     }
 }

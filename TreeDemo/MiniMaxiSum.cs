@@ -36,16 +36,29 @@ namespace TreeDemo
      */
     public class MiniMaxiSum
     {
-        public int [] miniMaxSum(int[] arr)
+        public ulong[] miniMaxSum(int[] arr)
         {
-            var maxValue = arr.Max();
-            var minSum = arr.Where(x => x!= maxValue).ToList().Sum();
-            
-            var minValue = arr.Min();
-            var maxSum = arr.Where(y => y != minValue).ToList().Sum();
+            var arrValues = arr.Select(a => Convert.ToUInt64(a));
 
-            var returnValues = new List<int>() { minSum, maxSum };
-            return returnValues.ToArray();
+            if (arr.ToList().Distinct().Count() > 1)
+            {
+                var maxValue = arrValues.Max();
+
+                var minSum = arrValues.Where(x => x != maxValue).ToList().Aggregate((i1, i2) => (i1 + i2));
+
+                var minValue = arrValues.Min();
+                var maxSum = arrValues.Where(y => y != minValue).ToList().Aggregate((i1, i2) => (i1 + i2));
+
+                var returnValues = new List<ulong>() { minSum, maxSum };
+                return returnValues.ToArray();
+            }
+            else
+            {
+                var minMaxValue = Convert.ToUInt64( arrValues.Skip(1).Select(b => Convert.ToInt64(b)).Sum());
+
+                return new ulong[] { minMaxValue, minMaxValue };
+            }
+           
         }
     }
 }

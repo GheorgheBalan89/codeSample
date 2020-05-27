@@ -58,9 +58,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Personal\\CodeSample\\Tree\\TreeDemo\\TreeDemo\\TreeDemo.csproj",
-      "projectName": "TreeDemo",
-      "projectPath": "C:\\Personal\\CodeSample\\Tree\\TreeDemo\\TreeDemo\\TreeDemo.csproj",
+      "projectUniqueName": "C:\\Personal\\CodeSample\\Tree\\TreeDemo\\TreeDemo\\CodeSample.csproj",
+      "projectName": "CodeSample",
+      "projectPath": "C:\\Personal\\CodeSample\\Tree\\TreeDemo\\TreeDemo\\CodeSample.csproj",
       "packagesPath": "C:\\Users\\GheorgheBalan\\.nuget\\packages\\",
       "outputPath": "C:\\Personal\\CodeSample\\Tree\\TreeDemo\\TreeDemo\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U/PmmpysTIq2I2ZAi8R56KLDKQHb+7LwYgE5/kJPnY2jPoxC8K4Erwj3meefFPlAcmImL/HlZ7Yfxo4tpV5uzw==",
+  "dgSpecHash": "T654OKFYgAl2gOzwFNdYC31CMybW/O6uQj0bfV8bEdqDK8FXCS5S8OA3r/d0JUh07D4wnLwGajbSlU97B1cPIw==",
   "success": true,
-  "projectFilePath": "C:\\Personal\\CodeSample\\Tree\\TreeDemo\\TreeDemo.Tests\\TreeDemo.Tests.csproj",
+  "projectFilePath": "C:\\Personal\\CodeSample\\Tree\\TreeDemo\\TreeDemo.Tests\\CodeSample.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\GheorgheBalan\\.nuget\\packages\\coverlet.collector\\1.0.1\\coverlet.collector.1.0.1.nupkg.sha512",
     "C:\\Users\\GheorgheBalan\\.nuget\\packages\\microsoft.codecoverage\\16.2.0\\microsoft.codecoverage.16.2.0.nupkg.sha512",

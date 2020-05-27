@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29721.120
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeDemo", "TreeDemo\TreeDemo.csproj", "{511415B8-EFC6-49A9-849C-42AD0C10D732}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeSample", "CodeSample\CodeSample.csproj", "{511415B8-EFC6-49A9-849C-42AD0C10D732}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeDemo.Tests", "TreeDemo.Tests\TreeDemo.Tests.csproj", "{451D9E0F-DFFF-4E08-BB02-C1E6DDC94F35}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeSample.Tests", "CodeSample.Tests\CodeSample.Tests.csproj", "{451D9E0F-DFFF-4E08-BB02-C1E6DDC94F35}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,0 +1,9 @@
+C:\Personal\CodeSample\Tree\CodeSample\CodeSample\bin\Debug\netcoreapp3.1\CodeSample.deps.json
+C:\Personal\CodeSample\Tree\CodeSample\CodeSample\bin\Debug\netcoreapp3.1\CodeSample.dll
+C:\Personal\CodeSample\Tree\CodeSample\CodeSample\bin\Debug\netcoreapp3.1\CodeSample.pdb
+C:\Personal\CodeSample\Tree\CodeSample\CodeSample\obj\Debug\netcoreapp3.1\CodeSample.csprojAssemblyReference.cache
+C:\Personal\CodeSample\Tree\CodeSample\CodeSample\obj\Debug\netcoreapp3.1\CodeSample.AssemblyInfoInputs.cache
+C:\Personal\CodeSample\Tree\CodeSample\CodeSample\obj\Debug\netcoreapp3.1\CodeSample.AssemblyInfo.cs
+C:\Personal\CodeSample\Tree\CodeSample\CodeSample\obj\Debug\netcoreapp3.1\CodeSample.csproj.CoreCompileInputs.cache
+C:\Personal\CodeSample\Tree\CodeSample\CodeSample\obj\Debug\netcoreapp3.1\CodeSample.dll
+C:\Personal\CodeSample\Tree\CodeSample\CodeSample\obj\Debug\netcoreapp3.1\CodeSample.pdb

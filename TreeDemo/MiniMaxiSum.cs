@@ -38,16 +38,14 @@ namespace TreeDemo
     {
         public int [] miniMaxSum(int[] arr)
         {
-            var values = new int[]{};
             var maxValue = arr.Max();
-
-            var maxSum = arr.Where(x => x!= maxValue).ToList().Sum();
+            var minSum = arr.Where(x => x!= maxValue).ToList().Sum();
+            
             var minValue = arr.Min();
+            var maxSum = arr.Where(y => y != minValue).ToList().Sum();
 
-            var minSum = arr.Where(y => y != minValue).ToList().Sum();
-            values[0] = minSum;
-            values[1] = maxSum;
-            return values;
+            var returnValues = new List<int>() { minSum, maxSum };
+            return returnValues.ToArray();
         }
     }
 }

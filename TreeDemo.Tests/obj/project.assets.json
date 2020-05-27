@@ -4960,11 +4960,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Personal\\Portfolio\\CodeSample\\Tree\\TreeDemo\\TreeDemo.Tests\\TreeDemo.Tests.csproj",
+      "projectUniqueName": "C:\\Personal\\CodeSample\\Tree\\TreeDemo\\TreeDemo.Tests\\TreeDemo.Tests.csproj",
       "projectName": "TreeDemo.Tests",
-      "projectPath": "C:\\Personal\\Portfolio\\CodeSample\\Tree\\TreeDemo\\TreeDemo.Tests\\TreeDemo.Tests.csproj",
+      "projectPath": "C:\\Personal\\CodeSample\\Tree\\TreeDemo\\TreeDemo.Tests\\TreeDemo.Tests.csproj",
       "packagesPath": "C:\\Users\\GheorgheBalan\\.nuget\\packages\\",
-      "outputPath": "C:\\Personal\\Portfolio\\CodeSample\\Tree\\TreeDemo\\TreeDemo.Tests\\obj\\",
+      "outputPath": "C:\\Personal\\CodeSample\\Tree\\TreeDemo\\TreeDemo.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4984,8 +4984,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Personal\\Portfolio\\CodeSample\\Tree\\TreeDemo\\TreeDemo\\TreeDemo.csproj": {
-              "projectPath": "C:\\Personal\\Portfolio\\CodeSample\\Tree\\TreeDemo\\TreeDemo\\TreeDemo.csproj"
+            "C:\\Personal\\CodeSample\\Tree\\TreeDemo\\TreeDemo\\TreeDemo.csproj": {
+              "projectPath": "C:\\Personal\\CodeSample\\Tree\\TreeDemo\\TreeDemo\\TreeDemo.csproj"
             }
           }
         }
@@ -5041,7 +5041,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300-preview-015135\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

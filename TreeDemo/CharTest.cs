@@ -61,33 +61,6 @@ namespace TreeDemo
                     else
                     {
 
-                        //var doubleReplacements = expression.Contains(">>");
-                        //int doubleReplacementCount = 0;
-                     
-                        //var charArray = expression.ToCharArray();
-
-                        //for (int j = 0; j < charArray.Length; j++)
-                        //{
-                        //    if (charArray[j] == '>')
-                        //    {
-                        //        if (j < charArray.Length - 1)
-                        //        {
-                        //            if (charArray[j + 1] == '>')
-                        //            {
-                        //                doubleReplacementCount++;
-                        //                j++;
-                        //            }
-                                   
-                        //        }
-                        //    }
-                        //}
-
-                        //if (doubleReplacementCount > 0)
-                        //{
-                        //    response.Add(maxReplacements[i] >= doubleReplacementCount ? 1 : 0);
-                        //}
-                       
-
                         var diff = greaterThanCount - lesserThanCount;
                         if (diff < 0)
                         {

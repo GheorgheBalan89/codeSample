@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Personal\\Portfolio\\CodeSample\\Tree\\TreeDemo\\TreeDemo\\TreeDemo.csproj": {}
+    "C:\\Personal\\CodeSample\\Tree\\TreeDemo\\TreeDemo\\TreeDemo.csproj": {}
   },
   "projects": {
-    "C:\\Personal\\Portfolio\\CodeSample\\Tree\\TreeDemo\\TreeDemo\\TreeDemo.csproj": {
+    "C:\\Personal\\CodeSample\\Tree\\TreeDemo\\TreeDemo\\TreeDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Personal\\Portfolio\\CodeSample\\Tree\\TreeDemo\\TreeDemo\\TreeDemo.csproj",
+        "projectUniqueName": "C:\\Personal\\CodeSample\\Tree\\TreeDemo\\TreeDemo\\TreeDemo.csproj",
         "projectName": "TreeDemo",
-        "projectPath": "C:\\Personal\\Portfolio\\CodeSample\\Tree\\TreeDemo\\TreeDemo\\TreeDemo.csproj",
+        "projectPath": "C:\\Personal\\CodeSample\\Tree\\TreeDemo\\TreeDemo\\TreeDemo.csproj",
         "packagesPath": "C:\\Users\\GheorgheBalan\\.nuget\\packages\\",
-        "outputPath": "C:\\Personal\\Portfolio\\CodeSample\\Tree\\TreeDemo\\TreeDemo\\obj\\",
+        "outputPath": "C:\\Personal\\CodeSample\\Tree\\TreeDemo\\TreeDemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -62,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300-preview-015135\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -11,10 +11,9 @@ using Newtonsoft.Json;
 
 namespace TreeDemo
 {
-    public class Task2
+    public class HttpRequestsPaging
     {
-        //private readonly IHttpClientFactory _clientFactory;
-        public static string[] getMovieTitles(string substr)
+        public  string[] getMovieTitles(string substr)
         {
             HttpWebRequest request = (HttpWebRequest) WebRequest.Create($"https://jsonmock.hackerrank.com/api/movies/search/?Title={substr}");
             request.AutomaticDecompression = DecompressionMethods.GZip;

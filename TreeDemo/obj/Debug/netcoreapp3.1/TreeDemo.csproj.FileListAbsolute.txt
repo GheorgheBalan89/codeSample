@@ -7,3 +7,12 @@ C:\Personal\Portfolio\CodeSample\Tree\TreeDemo\TreeDemo\obj\Debug\netcoreapp3.1\
 C:\Personal\Portfolio\CodeSample\Tree\TreeDemo\TreeDemo\obj\Debug\netcoreapp3.1\TreeDemo.dll
 C:\Personal\Portfolio\CodeSample\Tree\TreeDemo\TreeDemo\obj\Debug\netcoreapp3.1\TreeDemo.pdb
 C:\Personal\Portfolio\CodeSample\Tree\TreeDemo\TreeDemo\obj\Debug\netcoreapp3.1\TreeDemo.csproj.CoreCompileInputs.cache
+C:\Personal\CodeSample\Tree\TreeDemo\TreeDemo\bin\Debug\netcoreapp3.1\TreeDemo.deps.json
+C:\Personal\CodeSample\Tree\TreeDemo\TreeDemo\bin\Debug\netcoreapp3.1\TreeDemo.dll
+C:\Personal\CodeSample\Tree\TreeDemo\TreeDemo\bin\Debug\netcoreapp3.1\TreeDemo.pdb
+C:\Personal\CodeSample\Tree\TreeDemo\TreeDemo\obj\Debug\netcoreapp3.1\TreeDemo.csprojAssemblyReference.cache
+C:\Personal\CodeSample\Tree\TreeDemo\TreeDemo\obj\Debug\netcoreapp3.1\TreeDemo.AssemblyInfoInputs.cache
+C:\Personal\CodeSample\Tree\TreeDemo\TreeDemo\obj\Debug\netcoreapp3.1\TreeDemo.AssemblyInfo.cs
+C:\Personal\CodeSample\Tree\TreeDemo\TreeDemo\obj\Debug\netcoreapp3.1\TreeDemo.csproj.CoreCompileInputs.cache
+C:\Personal\CodeSample\Tree\TreeDemo\TreeDemo\obj\Debug\netcoreapp3.1\TreeDemo.dll
+C:\Personal\CodeSample\Tree\TreeDemo\TreeDemo\obj\Debug\netcoreapp3.1\TreeDemo.pdb

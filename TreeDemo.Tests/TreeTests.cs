@@ -3,7 +3,7 @@ using System.Diagnostics;
 using NUnit.Framework;
 using TreeDemo;
 
-public class Tests
+public class TreeTests
 {
     [Test]
     public void FirstTreeTest()

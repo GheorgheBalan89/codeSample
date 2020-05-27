@@ -7,13 +7,13 @@ using TreeDemo;
 
 namespace TreeDemo.Tests
 {
-    public  class Task2Tests
+    public  class HttpRequestsPagingTests
     {
         [Test]
         public void MovieTest1()
         {
-            var call = new Task2();//.getMovieTitles("spiderman");
-            
+            var call = new HttpRequestsPaging().getMovieTitles("spiderman");
+            Assert.IsNotNull(call);
         }
     }
 }

@@ -5,9 +5,15 @@ using System.Text;
 
 namespace TreeDemo
 {
-    public class Task3
+    public class MinSum
     {
-
+        /// <summary>
+        /// Reduces the total sum by always returning the smallest possible sum
+        /// it would divide the highest value, and reduce it to its ceiling
+        /// </summary>
+        /// <param name="num"></param>
+        /// <param name="k">number of iterations that should be run</param>
+        /// <returns></returns>
         public int minSum(List<int> num, int k)
         {
             var maxValueOfN = Math.Pow(10, 5);
